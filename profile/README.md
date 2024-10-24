@@ -16,15 +16,15 @@
 - 20K Guilds (-)
 
 ### Music Stream Supports
-- [Joox](https://joox.com/) - providers-plugin
-- [AppleMusic](https://music.apple.com/) - providers-plugin
-- [AmazonMusic](https://music.amazon.com/) - providers-plugin
-- [VKMusic](https://vk.com/music) - providers-plugin
-- [TIDALMusic](https://tidal.com/) - providers-plugin
-- [Facebook Watch](https://www.facebook.com/watch/) - providers-plugin
-- [BiliBili](https://www.bilibili.com/) - providers-plugin
-- [TikTok](https://www.tiktok.com/) - providers-plugin
-- [Deezer](https://www.deezer.com/) - providers-plugin
+- [Joox](https://joox.com/) - chompu-plugin
+- [AppleMusic](https://music.apple.com/) - chompu-plugin
+- [AmazonMusic](https://music.amazon.com/) - chompu-plugin
+- [VKMusic](https://vk.com/music) - chompu-plugin
+- [TIDALMusic](https://tidal.com/) - chompu-plugin
+- [Facebook Watch](https://www.facebook.com/watch/) - chompu-plugin
+- [BiliBili](https://www.bilibili.com/) - chompu-plugin
+- [TikTok](https://www.tiktok.com/) - chompu-plugin
+- [Deezer](https://www.deezer.com/) - chompu-plugin
 - [Spotify](https://open.spotify.com/) - lavasrc-plugin
 - [Soundcloud](https://soundcloud.com/) - lavaplayer
 - [Twitch](https://www.twitch.tv/) - lavaplayer
