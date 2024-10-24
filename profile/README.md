@@ -9,23 +9,25 @@
 <a href="https://discord.com/users/919878532228841532"><img align="center"  width="300px" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
 
 </div>
+
 ### Progression
 - 5K Guilds (-)
 - 10K Guilds (-)
 - 20K Guilds (-)
 
 ### Music Stream Support
-- Joox
-- Spotify
-- Facebook Watch
-- Deezer
-- TIDALMusic
-- TikTok
-- BiliBili
-- AppleMusic
-- AmazonMusic
-- VKMusic
-- Soundcloud
-- Twitch
-- Vimeo
-- Niconico
+- [Joox](https://joox.com/)
+- [Spotify](https://open.spotify.com/)
+- [Facebook Watch](https://www.facebook.com/watch/)
+- [Deezer](https://www.google.com/)
+- [TIDALMusic](https://tidal.com/)
+- [TikTok](https://www.tiktok.com/)
+- [BiliBili](https://www.bilibili.com/)
+- [AppleMusic](https://music.apple.com/)
+- [AmazonMusic](https://music.amazon.com/)
+- [VKMusic](https://vk.com/music)
+- [Soundcloud](https://soundcloud.com/)
+- [Twitch](https://www.twitch.tv/)
+- [Vimeo](https://vimeo.com/)
+- [Niconico](https://www.nicovideo.jp/)
+- สามารถขอเพิ่มเติมได้นะ
