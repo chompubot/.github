@@ -26,10 +26,10 @@
 - [TikTok](https://www.tiktok.com/) - providers-plugin
 - [Deezer](https://www.deezer.com/) - providers-plugin
 - [Spotify](https://open.spotify.com/) - lavasrc-plugin
-- [Soundcloud](https://soundcloud.com/)
-- [Twitch](https://www.twitch.tv/)
-- [Vimeo](https://vimeo.com/)
-- [Niconico](https://www.nicovideo.jp/)
+- [Soundcloud](https://soundcloud.com/) - lavaplayer
+- [Twitch](https://www.twitch.tv/) - lavaplayer
+- [Vimeo](https://vimeo.com/) - lavaplayer
+- [Niconico](https://www.nicovideo.jp/) - lavaplayer
 - สามารถขอเพิ่มเติมได้นะ
 
 ### Links
