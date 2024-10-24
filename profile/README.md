@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://typograssy.deno.dev/api?text=ChompuBot&l0=none&l1=ecb6e5&l2=ffadef&l3=ffc2ef&l4=e1add0&bg=none&frame=none&speed=100&comment=">
+<img src="https://typograssy.deno.dev/api?text=Chompu%20Discord%20App&l0=none&l1=ecb6e5&l2=ffadef&l3=ffc2ef&l4=e1add0&bg=none&frame=none&speed=100&comment=">
 </div> 
 ### <p align="center">Developer for Project<p>
 
