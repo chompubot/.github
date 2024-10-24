@@ -1,7 +1,6 @@
 <div align="center">
-<img src="https://typograssy.deno.dev/api?text=ChompuBot&l0=none&l1=00cce6&l2=80f1ff&l3=009eb3&l4=caf9ff&bg=none&frame=none&speed=100&comment=">
+<img src="https://typograssy.deno.dev/api?text=ChompuBot&l0=none&l1=e99bdf&l2=c440a8&l3=a13083&l4=6e2156&bg=none&frame=none&speed=100&comment=">
 </div>
-
 ### <p align="center">Developer for Project<p>
 
 <div align="center">
