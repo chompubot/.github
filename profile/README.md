@@ -25,6 +25,7 @@
 - [TIDALMusic](https://tidal.com/) - chompu-plugin
 - [Facebook Watch](https://www.facebook.com/watch/) - chompu-plugin
 - [BiliBili](https://www.bilibili.com/) - chompu-plugin
+- [BiliBiliTV](https://www.bilibili.tv/) - chompu-plugin
 - [TikTok](https://www.tiktok.com/) - chompu-plugin
 - [Deezer](https://www.deezer.com/) - chompu-plugin
 - [Spotify](https://open.spotify.com/) - lavasrc-plugin
