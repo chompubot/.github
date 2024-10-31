@@ -17,7 +17,7 @@
 - 50K Guilds (-)
 - 100K Guilds (-)
 
-### Music Stream Supports
+### Music Stream Supports (Multiple Platforms)
 - [Joox](https://joox.com/) - chompu-plugin
 - [AppleMusic](https://music.apple.com/) - chompu-plugin
 - [AmazonMusic](https://music.amazon.com/) - chompu-plugin
