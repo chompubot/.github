@@ -47,4 +47,4 @@
 - Discord: https://discord.gg/RPCfvBSUuM
 - YouTube: https://www.youtube.com/@chompu.oreshi
 - Project: https://status.oreshi.com/
-- Invite: https://chompubot.work/invite
+- PreMiD: https://premid.app/store/presences/Chompu
