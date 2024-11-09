@@ -30,6 +30,7 @@
 - [TikTok](https://www.tiktok.com/) - chompu-plugin
 - [Deezer](https://www.deezer.com/) - chompu-plugin
 - [Spotify](https://open.spotify.com/) - lavasrc-plugin
+- [YouTube](https://www.youtube.com/) - salee-plugin
 - [Clyp](https://clyp.it/) - salee-plugin
 - [YARN](https://getyarn.io/) - salee-plugin
 - [Mixcloud](https://www.mixcloud.com/) - salee-plugin
