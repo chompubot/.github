@@ -24,6 +24,7 @@
 - [VKMusic](https://vk.com/music) - chompu-plugin
 - [TIDALMusic](https://tidal.com/) - chompu-plugin
 - [Facebook Watch](https://www.facebook.com/watch/) - chompu-plugin
+- [Instagram](https://www.instagram.com/) - chompu-plugin
 - [BiliBili](https://www.bilibili.com/) - chompu-plugin
 - [BiliBiliTV](https://www.bilibili.tv/) - chompu-plugin
 - [LINEMusic](https://music.line.me/) - chompu-plugin
