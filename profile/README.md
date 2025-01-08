@@ -21,6 +21,7 @@
 - [Joox](https://joox.com/) - chompu-plugin
 - [AppleMusic](https://music.apple.com/) - chompu-plugin
 - [AmazonMusic](https://music.amazon.com/) - chompu-plugin
+- [Anghami](https://play.anghami.com/home) - chompu-plugin
 - [VKMusic](https://vk.com/music) - chompu-plugin
 - [TIDALMusic](https://tidal.com/) - chompu-plugin
 - [Facebook Watch](https://www.facebook.com/watch/) - chompu-plugin
