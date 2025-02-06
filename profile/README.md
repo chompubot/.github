@@ -12,7 +12,7 @@
 
 ### Progression
 - 5K Guilds (1/11/2567)
-- 10K Guilds (-)
+- 10K Guilds (6/2/2568)
 - 20K Guilds (-)
 - 50K Guilds (-)
 - 100K Guilds (-)
