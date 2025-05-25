@@ -7,6 +7,7 @@
 <div align="center">
 
 <a href="https://discord.com/users/919878532228841532"><img align="center"  width="300px" src="https://lanyard.cnrad.dev/api/919878532228841532"></a>
+<a href="https://discord.com/users/1089356674764120125"><img align="center"  width="300px" src="https://lanyard.cnrad.dev/api/1089356674764120125"></a>
 
 </div>
 
