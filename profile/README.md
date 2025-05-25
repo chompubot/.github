@@ -33,6 +33,7 @@
 - [Deezer](https://www.deezer.com/) - chompu-plugin
 - [Spotify](https://open.spotify.com/) - chompu-plugin
 - [YouTube](https://www.youtube.com/) - salee-plugin
+- [JioSaavn](https://www.jiosaavn.com/) - salee-plugin
 - [Clyp](https://clyp.it/) - salee-plugin
 - [YARN](https://getyarn.io/) - salee-plugin
 - [Mixcloud](https://www.mixcloud.com/) - salee-plugin
