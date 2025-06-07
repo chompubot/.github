@@ -19,6 +19,10 @@
 - 100K Guilds (-)
 
 ### Music Stream Supports (Multiple Platforms)
+> **chompu-plugin by [@somboytiger](https://github.com/somboytiger)**
+
+> **salee-plugin by [@JirayuSrisawat-Github](https://github.com/JirayuSrisawat-Github)**
+
 - [Joox](https://joox.com/) - chompu-plugin
 - [AppleMusic](https://music.apple.com/) - chompu-plugin
 - [AmazonMusic](https://music.amazon.com/) - chompu-plugin
@@ -42,7 +46,7 @@
 - [Pixeldrain](https://pixeldrain.com/) - salee-plugin
 - [Pornhub](https://www.pornhub.com/) - salee-plugin
 - [Reddit](https://www.reddit.com/) - salee-plugin
-- [Soundcloud](https://soundcloud.com/) - lavaplayer
+- [Soundcloud](https://soundcloud.com/) - salee-plugin
 - [Twitch](https://www.twitch.tv/) - lavaplayer
 - [Vimeo](https://vimeo.com/) - lavaplayer
 - [Niconico](https://www.nicovideo.jp/) - lavaplayer
@@ -52,5 +56,5 @@
 - Website: https://chompubot.work/
 - Discord: https://discord.gg/RPCfvBSUuM
 - YouTube: https://www.youtube.com/@chompu.oreshi
-- Project: https://status.oreshi.com/
+- Status: https://status.oreshi.com/
 - PreMiD: https://premid.app/store/presences/Chompu
