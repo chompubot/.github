@@ -18,7 +18,7 @@
 - 50K Guilds (-)
 - 100K Guilds (-)
 
-### Music Stream Supports (Multiple Platforms)
+### Music Stream Supports
 > **chompu-plugin by [@somboytiger](https://github.com/somboytiger)**
 
 > **salee-plugin by [@JirayuSrisawat-Github](https://github.com/JirayuSrisawat-Github)**
