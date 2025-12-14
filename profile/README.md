@@ -15,7 +15,7 @@
 - 5K Guilds (1/11/2567)
 - 10K Guilds (6/2/2568)
 - 20K Guilds (11/5/2568)
-- 50K Guilds (-)
+- 50K Guilds (14/12/2568)
 - 100K Guilds (-)
 
 ### Music Stream Supports
