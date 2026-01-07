@@ -11,6 +11,12 @@
 
 </div>
 
+<div align="center">
+<a href="https://top.gg/bot/1010597992266465340">
+<img src="https://top.gg/api/widget/1010597992266465340.svg">
+</a>
+</div>
+
 ### Progression
 - 5K Guilds (1/11/2567)
 - 10K Guilds (6/2/2568)
